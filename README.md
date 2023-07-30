@@ -192,3 +192,18 @@ Integrate tracing and error reporting services:
 
  * Honeycomb for tracing?
  * Sentry for error reporting?
+
+
+## Resources
+
+### Other Projects
+
+ * [IoT Ruststack Demo](https://github.com/bortyr/iot_ruststack_demo)
+
+### Videos
+
+ * [A Good Rust Web Stack (YouTube)](https://www.youtube.com/watch?v=pocWrUj68tU)
+ * [Building WASM web UI with Rust (YouTube)](https://www.youtube.com/watch?v=ie13kswrWu4)
+ * [Build A Full Stack Chatbot in Rust (YouTube)](https://www.youtube.com/watch?v=vAjle3c9Xqc)
+ * [An Overview of the Embedded Rust Ecosystem (YouTube)](https://www.youtube.com/watch?v=vLYit_HHPaY)
+
