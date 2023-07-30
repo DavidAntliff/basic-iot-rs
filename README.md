@@ -199,6 +199,7 @@ Integrate tracing and error reporting services:
 ### Other Projects
 
  * [IoT Ruststack Demo](https://github.com/bortyr/iot_ruststack_demo)
+ * [rust-iot-2022](https://github.com/mfiumara/rust-iot-2022) - [article](https://betterprogramming.pub/rust-for-iot-is-it-time-67b14ab34b8)
 
 ### Videos
 
@@ -206,4 +207,8 @@ Integrate tracing and error reporting services:
  * [Building WASM web UI with Rust (YouTube)](https://www.youtube.com/watch?v=ie13kswrWu4)
  * [Build A Full Stack Chatbot in Rust (YouTube)](https://www.youtube.com/watch?v=vAjle3c9Xqc)
  * [An Overview of the Embedded Rust Ecosystem (YouTube)](https://www.youtube.com/watch?v=vLYit_HHPaY)
+
+### Rust on ESP32
+
+ * [The Rust on ESP Book](https://esp-rs.github.io/book/)
 
